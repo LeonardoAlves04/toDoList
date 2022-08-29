@@ -3,6 +3,7 @@ Opa, mais uma vez trazendo um projeto aqui para o github. Dessa vez trago um pro
 Link para o github pages: https://leonardoalves04.github.io/toDoList/
 
 Imagens do projeto:
+
 *Estado inicial:
 ![image](https://user-images.githubusercontent.com/69488943/187187599-3bb3c306-c9cb-45f9-8218-423f56995b1a.png)
 
