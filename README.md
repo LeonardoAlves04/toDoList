@@ -1,4 +1,4 @@
-Opa, mais uma vez trazendo um projeto aqui para o github. Dessa vez trago um projeto de uma to do list (lista de tarefas), um projeto bem conhecido entre os programadores. É uma lista de tarefas simples, com opção de adicionar,concluir e excluir uma tarefa.   Vou deixar umas fotos do projeto e te convido a clicar no link para ter uma experiência melhor do projeto, testando ele direto da web.
+Opa, mais uma vez trazendo um projeto aqui para o github. Dessa vez trago um projeto de uma to do list (lista de tarefas), um projeto bem conhecido entre os programadores. É uma lista de tarefas simples, com opção de adicionar,concluir e excluir uma tarefa. Também possui uma função de salvar as tarefas no local storage, assim vc pode atualizar a página que continua salvo as tarefas. Vou deixar umas fotos do projeto e te convido a clicar no link para ter uma experiência melhor do projeto, testando ele direto da web.
 
 Link para o github pages: https://leonardoalves04.github.io/toDoList/
 
